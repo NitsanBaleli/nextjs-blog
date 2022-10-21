@@ -1,6 +1,6 @@
 import type { SiteConfig } from "@/lib/types";
 const siteConfig: SiteConfig = {
-  avatar: "./avatar.png",
+  avatar: "/avatar.png",
   siteUrl: "https://nitsanbaleli.github.io/nextjs-blog",
   siteName: "Nitsan Baleli",
   siteDescription:
