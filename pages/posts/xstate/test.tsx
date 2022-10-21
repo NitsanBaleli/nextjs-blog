@@ -21,7 +21,6 @@ function Test() {
   });
 
   const isOn = state.matches("light on");
-  console.log(state);
   // useEffect(() => {
   //   if (typeof window !== "undefined") {
   //     inspect({});
